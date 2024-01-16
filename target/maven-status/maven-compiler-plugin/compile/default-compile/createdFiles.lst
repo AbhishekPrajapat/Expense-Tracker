@@ -1,0 +1,5 @@
+com\yaksha\training\expense\controller\ExpenseController.class
+com\yaksha\training\expense\entity\Expense.class
+com\yaksha\training\expense\ExpenseManagementSystemApplication.class
+com\yaksha\training\expense\service\ExpenseService.class
+com\yaksha\training\expense\repository\ExpenseRepository.class
